@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/06/15 11:34:14.000.597,=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/10 13:27:12.000.390,=emsserverapi.dcp</Transaction>
+    <Transaction>2024/07/10 13:27:13.000.398,=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/11 14:16:15.000.186,=C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/11 14:17:54.000.355,C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\Geral\Documents\PlayPause\FrmPrincial.fmx</Transaction>
+    <Transaction>2024/07/11 14:17:54.000.355,C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Geral\Documents\PlayPause\FrmPrincial.pas</Transaction>
+    <Transaction>2024/07/11 14:18:11.000.029,C:\Users\Geral\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Geral\Documents\PlayPause\PlayPause.dproj</Transaction>
+    <Transaction>2024/07/11 14:29:04.000.041,=C:\Users\Geral\Documents\PlayPause\MusicPlayer.Android.pas</Transaction>
+    <Transaction>2024/07/11 14:29:04.000.265,=C:\Users\Geral\Documents\PlayPause\MusicPlayer.Utils.pas</Transaction>
+    <Transaction>2024/07/11 14:29:04.000.110,=C:\Users\Geral\Documents\PlayPause\MusicPlayer.iOS.pas</Transaction>
+    <Transaction>2024/07/11 14:29:04.000.197,=C:\Users\Geral\Documents\PlayPause\MusicPlayer.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="" Android64=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
